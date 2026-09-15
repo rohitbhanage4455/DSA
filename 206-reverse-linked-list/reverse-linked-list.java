@@ -22,6 +22,8 @@ class Solution {
             curr = next;
         }
 
+        curr = head;
+
         return prev;
     }
 }
