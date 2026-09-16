@@ -8,7 +8,7 @@
 <pre>
 <strong>Input:</strong> head = [1,2,3,4,5]
 <strong>Output:</strong> [3,4,5]
-<strong>Explanation:</strong> The middle node of the list is node 3.
+<strong>Explanation:</strong> The middle node of the list is node 3
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
